@@ -1,0 +1,8 @@
+# Environment Folder
+convertVid_env/
+
+# Sample folder for testing
+sample/
+
+# .ipynb file for testing
+*.ipynb
